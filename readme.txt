@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 --no-ff
 Hello too
 1
+2
